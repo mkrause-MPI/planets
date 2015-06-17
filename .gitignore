@@ -1,0 +1,7 @@
+#Here we assign which documents should not be checked by git
+#Also allows for wildcard expressions
+
+.gitignore
+out.data
+*.data
+
